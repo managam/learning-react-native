@@ -1,0 +1,1 @@
+https://facebook.github.io/react-native/docs/flexbox.html#justify-content

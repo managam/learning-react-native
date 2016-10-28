@@ -1,0 +1,3 @@
+rootProject.name = 'JustifyContent'
+
+include ':app'
